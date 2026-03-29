@@ -1,14 +1,8 @@
-# effect-sys
+# effect_sys
 
-Algebraic effect system with handlers, resumptions, and common effects (State, IO, Exception)
+effect_sys: Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 
 ## Usage
-
 ```bash
-python3 effect_sys.py --help
+python3 effect_sys.py --test
 ```
-
-## Features
-
-- Zero dependencies (Python 3.8+ stdlib only)
-- Single file implementation
